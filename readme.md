@@ -5,3 +5,4 @@ Well it's official, I've figured out how to automate giving money away.. Now I n
 copy .env-example .env fill in your information, username, password and payment amount. 
 run python main.py and watch the magic happen...
 
+**NOTE** Currently cancels the transaction, just testing at the moment, plan to expand. 
